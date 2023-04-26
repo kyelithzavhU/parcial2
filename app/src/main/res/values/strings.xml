@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Operaciones_2</string>
+    <string name="text_inicio">Ingresa tu usuario y contraseña:</string>
+    <string name="text_name">Usuario</string>
+    <string name="text_password">Password</string>
+    <string name="boton_ini">Ingresar</string>
+
+</resources>
